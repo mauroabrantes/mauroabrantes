@@ -1,9 +1,7 @@
 ## Hi! I'm Mauro Abrantes 🙌
 
 - I live in 🇧🇷, south-east.
-- Married. 💑💍
 - Father of Mauro Miguel. 👨‍👩‍👦
-- I love soccer. I'm a fan of São Paulo FC ⚽
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mauroabrantes)
