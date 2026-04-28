@@ -1,7 +1,7 @@
 # Olá, eu sou o Mauro Abrantes! 👋
 
 ### 🛡️ Aspirante a Especialista em Segurança Cibernética | Estudante na FIAP
-Atualmente focado em infraestrutura de redes, defesa cibernética e preparação para o concurso de TI do Banco do Brasil.
+Atualmente focado em infraestrutura de redes, defesa cibernética e pentest.
 
 ---
 
@@ -15,8 +15,8 @@ Atualmente focado em infraestrutura de redes, defesa cibernética e preparação
 
 ### 🚀 Objetivos e Estudos Atuais
 - 🎓 Cursando **Defesa Cibernética** (FIAP)
-- 📜 Certificação Profissional em **Segurança Cibernética do Google** (Em progresso)
-- 🏦 Focado no Edital de **Agente de Tecnologia do Banco do Brasil**
+- 📜 Certificação Profissional em **Segurança Cibernética** (Google)
+- 🛡️ **Introdução ao Hacking e Pentest 2.0** (Solyd Offensive)
 
 ### 📊 Estatísticas de Hacker
 <p align="left">
